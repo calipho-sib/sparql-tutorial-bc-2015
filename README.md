@@ -8,7 +8,7 @@ We will show you what SPARQL is:
 * How you can use it.
 * When should you use it.
  
-#Expected goals:
+##Expected goals
 * Gain basic knowledge about SPARQL and its practical applications.
 * Get an introduction to the neXtProt and UniProt databases and how you can use SPARQL to get answers to complicated questions.
 * Show the tools and help we provide (example queries, data model browser)
@@ -16,20 +16,20 @@ We will show you what SPARQL is:
 * To learn how federated queries can be used to combine data in multiple databases so as to answer hard scientific questions.
 * Explain how neXtProt and UniProtKB are complementary and how both add extra scientific value when combined.
 
-#Level:
+##Level
 
 Introduction/beginner (whetting the appetite to learn more and start using it)
 
-# Schedule:
+##Schedule:
 
 |               |               |
 | ------------- | ------------- |
-| 14.00-14.45 |  The semantic web, RDF & SPARQL - Who, Why, How use SPARQL - SPARQL query forms and SELECT syntax |
-| 14.45-15.30 | Practical exercises: writing your first queries using a simple dataset |
-| 15.30-16.00  | Coffee break  |
-| 16.00-16.30 | Introduction to Nextprot & Uniprot data models  |
-| 16.30-17.00 | Practical exercises: writing SPARQL queries to search Uniprot & Nextprot |
-| 17.00-17.30 | Federated queries: examples using Uniprot & Nextprot |
+| 14.00-14.45   |  The semantic web, RDF & SPARQL - Who, Why, How use SPARQL - SPARQL query forms and SELECT syntax |
+| 14.45-15.30   | Practical exercises: writing your first queries using a simple dataset |
+| 15.30-16.00   | Coffee break  |
+| 16.00-16.30   | Introduction to Nextprot & Uniprot data models  |
+| 16.30-17.00   | Practical exercises: writing SPARQL queries to search Uniprot & Nextprot |
+| 17.00-17.30   | Federated queries: examples using Uniprot & Nextprot |
 
 #Intended audience
 Biologists with minimal IT experience, Informaticians who want to support biologists in their research.
@@ -42,6 +42,6 @@ Biologists with minimal IT experience, Informaticians who want to support biolog
 # Prerequisites
 
 * Limited experience with command line tools.
-* Laptop is needed
-* Would be great to be familiarized with UniProtKB and/or neXtProt to understand better the use cases, but this is not mandatory.
-* WiFI/internet access would be best but fall back solution of having all data/tools on USB sticks is possible.
+* Laptop is needed with Java 1.7 or higher installed
+* WiFI/internet access is needed for Federated Queries with Wikipedia.
+* Be familiarized with UniProtKB and/or neXtProt to understand better the use cases would be a plus
