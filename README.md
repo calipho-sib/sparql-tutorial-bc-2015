@@ -1,7 +1,6 @@
 #Why, What, How: practical introduction to SPARQL for biologists and informaticians. Using the real world UniProt and neXtProt databases as illustrative examples
 
 ##Motivation
-
 More and more bioinformatics databases are deploying SPARQL endpoints allowing detail access to the information and data contained in them. This introduces how biologists and informaticians can use SPARQL to make it easier to integrate data and execute experiments with information provided by public resources combined with their own private experimental data to gain insight and gather supporting evidence. We will show how bioinformatics can stop parsing file formats and start answering scientific questions.
 
 We will show you what SPARQL is:
@@ -25,10 +24,12 @@ Introduction/beginner (whetting the appetite to learn more and start using it)
 
 |               |               |
 | ------------- | ------------- |
-| 14h00  |  SPARQL Technology:  |
-| 15h30  | Using SPARQL with simple example data.  |
-| 16h00  | Query examples (UniProtKB and neXtProt)  |
-| 17h00  | More examples and federated queries (UniProtKB and neXtProt)  |
+| 14.00-14.45 |  The semantic web, RDF & SPARQL - Who, Why, How use SPARQL - SPARQL query forms and SELECT syntax |
+| 14.45-15.30 | Practical exercises: writing your first queries using a simple dataset |
+| 15.30-16.00  | Coffee break  |
+| 16.00-16.30 | Introduction to Nextprot & Uniprot data models  |
+| 16.30-17.00 | Practical exercises: writing SPARQL queries to search Uniprot & Nextprot |
+| 17.00-17.30 | Federated queries: examples using Uniprot & Nextprot |
 
 #Intended audience
 Biologists with minimal IT experience, Informaticians who want to support biologists in their research.
