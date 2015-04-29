@@ -18,7 +18,7 @@ We will show you what SPARQL is:
 
 ##Level
 
-Introduction/beginner (whetting the appetite to learn more and start using it)
+Introduction/beginner
 
 ##Schedule:
 
