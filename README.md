@@ -1,7 +1,7 @@
 ##Why, What, How: Practical introduction to SPARQL for biologists and informaticians. 
-UniProt and neXtProt databases are used as illustrative examples
+###Using the real world UniProt and neXtProt databases as illustrative examples
 
-This tutorial uses [Sparql Playground](https://github.com/calipho-sib/sparql-playground) please [download the latest stable version](https://github.com/calipho-sib/sparql-playground/tarball/master) and make sure to have Java 1.7 or higher installed on your laptop. 
+In order to follow this tutorial, you will need <a href="https://github.com/calipho-sib/sparql-playground" target="_blank">Sparql Playground</a>. Please [download the latest stable version](https://github.com/calipho-sib/sparql-playground/tarball/master) and make sure to have Java 1.7 or higher installed on your laptop. 
 *To check your java version, open your command line and type `java -version`*
 
 ####Motivation
