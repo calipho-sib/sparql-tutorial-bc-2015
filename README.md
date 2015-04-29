@@ -1,5 +1,8 @@
 ##Why, What, How: practical introduction to SPARQL for biologists and informaticians. 
-This tutorial uses UniProt and neXtProt databases as illustrative examples
+UniProt and neXtProt databases are used as illustrative examples
+
+This tutorial uses [Sparql Playground](https://github.com/calipho-sib/sparql-playground) please [download the latest stable version](https://github.com/calipho-sib/sparql-playground/tarball/master) and make sure to have Java 1.7 or higher installed on your laptop. 
+*To check your java version, open your command line and type `java -version`*
 
 ####Motivation
 More and more bioinformatics databases are deploying SPARQL endpoints allowing detail access to the information and data contained in them. This introduces how biologists and informaticians can use SPARQL to make it easier to integrate data and execute experiments with information provided by public resources combined with their own private experimental data to gain insight and gather supporting evidence. We will show how bioinformatics can stop parsing file formats and start answering scientific questions.
