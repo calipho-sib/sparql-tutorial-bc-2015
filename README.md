@@ -1,6 +1,5 @@
 ##Why, What, How: practical introduction to SPARQL for biologists and informaticians. 
-
-###Using the real world UniProt and neXtProt databases as illustrative examples
+This tutorial uses UniProt and neXtProt databases as illustrative examples
 
 ####Motivation
 More and more bioinformatics databases are deploying SPARQL endpoints allowing detail access to the information and data contained in them. This introduces how biologists and informaticians can use SPARQL to make it easier to integrate data and execute experiments with information provided by public resources combined with their own private experimental data to gain insight and gather supporting evidence. We will show how bioinformatics can stop parsing file formats and start answering scientific questions.
