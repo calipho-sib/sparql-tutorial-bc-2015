@@ -1,6 +1,8 @@
-#Why, What, How: practical introduction to SPARQL for biologists and informaticians. Using the real world UniProt and neXtProt databases as illustrative examples
+##Why, What, How: practical introduction to SPARQL for biologists and informaticians. 
 
-##Motivation
+###Using the real world UniProt and neXtProt databases as illustrative examples
+
+####Motivation
 More and more bioinformatics databases are deploying SPARQL endpoints allowing detail access to the information and data contained in them. This introduces how biologists and informaticians can use SPARQL to make it easier to integrate data and execute experiments with information provided by public resources combined with their own private experimental data to gain insight and gather supporting evidence. We will show how bioinformatics can stop parsing file formats and start answering scientific questions.
 
 We will show you what SPARQL is:
@@ -8,7 +10,7 @@ We will show you what SPARQL is:
 * How you can use it.
 * When should you use it.
  
-##Expected goals
+####Expected goals
 * Gain basic knowledge about SPARQL and its practical applications.
 * Get an introduction to the neXtProt and UniProt databases and how you can use SPARQL to get answers to complicated questions.
 * Show the tools and help we provide (example queries, data model browser)
@@ -16,11 +18,11 @@ We will show you what SPARQL is:
 * To learn how federated queries can be used to combine data in multiple databases so as to answer hard scientific questions.
 * Explain how neXtProt and UniProtKB are complementary and how both add extra scientific value when combined.
 
-##Level
+####Level
 
 Introduction/beginner
 
-##Schedule:
+####Schedule:
 
 |               |               |
 | ------------- | ------------- |
@@ -31,15 +33,15 @@ Introduction/beginner
 | 16.30-17.00   | Practical exercises: writing SPARQL queries to search Uniprot & Nextprot |
 | 17.00-17.30   | Federated queries: examples using Uniprot & Nextprot |
 
-#Intended audience
+####Intended audience
 Biologists with minimal IT experience, Informaticians who want to support biologists in their research.
 
-# Speakers
+####Speakers
 * Daniel Dinis Teixeira
 * Jerven Bolleman
 * Pierre­André Michel 
 
-# Prerequisites
+####Prerequisites
 
 * Limited experience with command line tools.
 * Laptop is needed with Java 1.7 or higher installed
