@@ -49,5 +49,5 @@ Biologists with minimal IT experience, Informaticians who want to support biolog
 
 * Limited experience with command line tools.
 * Laptop is needed with Java 1.7 or higher installed
-* WiFI/internet access is needed for Federated Queries with DBPedia.
+* WiFI/internet access is needed for Federated Queries with [DBpedia](http://wiki.dbpedia.org/).
 * Be familiarized with UniProtKB and/or neXtProt to understand better the use cases would be a plus
