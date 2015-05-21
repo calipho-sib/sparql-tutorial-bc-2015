@@ -2,7 +2,7 @@
 
 This tutorial uses real world [UniProt](http://www.uniprot.org) and [neXtProt](https://search.nextprot.org) databases as illustrative examples
 
-In order to follow this tutorial, you will need <a href="https://github.com/calipho-sib/sparql-playground" target="_blank">Sparql Playground</a>. Please [download the latest stable version](https://github.com/calipho-sib/sparql-playground/tarball/master) and make sure to have Java 1.7 or higher installed on your laptop. 
+In order to follow this tutorial, you will need <a href="https://github.com/calipho-sib/sparql-playground" target="_blank">Sparql Playground</a>. Please [download the latest stable version](https://github.com/calipho-sib/sparql-playground/archive/0.0.1.zip) and make sure to have Java 1.7 or higher installed on your laptop. 
 
 *To check your java version, open your command line and type `java -version`*
 
