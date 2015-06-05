@@ -26,7 +26,7 @@ We will show you what SPARQL is:
 
 Introduction/beginner
 
-## Schedule:
+### Schedule:
 
 |               |               |
 | ------------- | ------------- |
