@@ -45,7 +45,7 @@ Biologists with minimal IT experience, Informaticians who want to support biolog
 * Jerven Bolleman
 * Pierre­André Michel 
 
-## Prerequisites
+### Prerequisites
 
 * Limited experience with command line tools.
 * Laptop is needed with Java 1.7 or higher installed
